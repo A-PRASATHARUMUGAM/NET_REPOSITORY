@@ -18,17 +18,19 @@ namespace Practice_.NET_Program
             abc.helper();
 
             //Default calling
-            checkmethods();  //Non Return Type 
+            checkmethods("prasath");  //Non Return Type 
             Console.WriteLine(add());      //Return Type 
       
 
 
         }
 
-        // Non Return Type Method 
-        public static void checkmethods()
+        // Non Return Type Method  
+        public static void checkmethods(string name)
         {
-            Console.WriteLine("check method");
+            // passing the argument to parameter 
+            Console.WriteLine("My name is "+ name );
+
         }
 
         // Return Type Method 
