@@ -40,12 +40,7 @@ namespace Practice_.NET_Program
         // Static method to demonstrate a simple functionality
         public static void data()
         {
-
-
-
           Console.WriteLine("Hello World22!");
-
-
             
         }
 
