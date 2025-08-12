@@ -28,7 +28,7 @@ namespace Practice_.NET_Program
         // Non Return Type Method  
         public static void checkmethods(string name)
         {
-            // passing the argument to parameter 
+            // passing the argument to parameter ;
             Console.WriteLine("My name is "+ name );
 
         }
