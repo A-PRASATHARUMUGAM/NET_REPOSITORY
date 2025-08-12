@@ -14,15 +14,14 @@ Day 2 : 12 AUG 25
 - Module 2: C# Programming Fundamentals 
 •   Data Types, Variables
 •   Type Conversion , String Methods ,Console Methods
+•	Functions and Methods
 •   Operators
 •	
 •	
 •	
 •	
-
 •	
 •	Control Statements (Loops, Conditionals)
-•	Functions and Methods
 •	OOP Concepts (Classes, Objects, Encapsulation, Inheritance, Polymorphism, Abstraction)
 •	Exception Handling
 •	Collections (List, Dictionary, Stack, Queue)
