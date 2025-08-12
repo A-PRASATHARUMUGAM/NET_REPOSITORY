@@ -58,11 +58,15 @@ namespace ConsoleApp1
             //int to float 
             int decml = 22;
             float conv = (float)decml;
-
-
-
-           
             Console.WriteLine(conv.GetType());    
+
+                        //String to int
+            string str = "100";
+            int name2 = int.Parse(str);
+            int name3 = Convert.ToInt32(str);
+            Console.WriteLine(name2.GetType());
+
+          
 
         }
     }
