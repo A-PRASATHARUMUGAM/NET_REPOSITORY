@@ -12,14 +12,14 @@ Phase 1: Fundamentals of .NET
 Day 2 : 12 AUG 25
 
 - Module 2: C# Programming Fundamentals 
-•	Data Types, Variables
-•	Type Conversion , String Methods 
-•	, and Operators
+•   Data Types, Variables
+•   Type Conversion , String Methods ,Console Methods
+•   Operators
 •	
 •	
 •	
 •	
-•	
+
 •	
 •	Control Statements (Loops, Conditionals)
 •	Functions and Methods
