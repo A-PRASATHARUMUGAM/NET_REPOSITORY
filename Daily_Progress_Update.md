@@ -1,1 +1,34 @@
 
+Day 1: 11 AUG 25
+
+Phase 1: Fundamentals of .NET
+- Module 1: Introduction to .NET and .NET Core
+•	Overview of .NET Framework and .NET Core
+•	Differences between .NET Framework, .NET Core, and .NET 5/6/7/8
+•	Understanding CLR, CTS, and CLS
+•	Introduction to C# programming language
+
+
+Day 2 : 12 AUG 25
+
+- Module 2: C# Programming Fundamentals 
+•	Data Types, Variables
+•	Type Conversion , String Methods 
+•	, and Operators
+•	
+•	
+•	
+•	
+•	
+•	
+•	Control Statements (Loops, Conditionals)
+•	Functions and Methods
+•	OOP Concepts (Classes, Objects, Encapsulation, Inheritance, Polymorphism, Abstraction)
+•	Exception Handling
+•	Collections (List, Dictionary, Stack, Queue)
+
+
+
+
+
+
