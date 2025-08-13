@@ -17,16 +17,13 @@ Day 2 : 12 AUG 25
 •	Functions and Methods
 •   Operators
 
-
-
-•	
-•	
-•	
-•	
+Day 3 : 13 AUG 25
+•	Array, ArrayList 
 •	Control Statements (Loops, Conditionals)
-•	OOP Concepts (Classes, Objects, Encapsulation, Inheritance, Polymorphism, Abstraction)
-•	Exception Handling
-•	Collections (List, Dictionary, Stack, Queue)
+•	Collections (List)
+•   Bits and Brains presentation
+
+
 
 
 
