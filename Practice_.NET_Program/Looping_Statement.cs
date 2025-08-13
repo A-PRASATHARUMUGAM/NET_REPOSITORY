@@ -1,6 +1,4 @@
 
-using System.Threading.Channels;
-
 namespace Practice_.NET_Program
 {
      class Looping_Statement()
@@ -11,7 +9,7 @@ namespace Practice_.NET_Program
         // For
         // While (check then run code block)
         // Do while (run code block then it will check)
-        // Foreach (loop through array or list)
+        // Foreach in (loop through array or list)
         public static void Loop()
         {
 
@@ -41,9 +39,27 @@ namespace Practice_.NET_Program
             } while (c < 10);
 
 
-            //Foreach
+            //Foreach in
+
+            //Array 
+            Console.WriteLine("Collect ");
+            int[] arr = new int[5];
 
 
+            arr[0] = 10;
+            arr[1] = 20;
+            arr[2] = 30;
+            arr[3] = 40;
+            arr[4] = 50;
+
+            //Console.WriteLine(arr[2]);
+
+            //ForEach
+            foreach (int val in arr)
+            {
+
+                Console.WriteLine(val);
+            }
         }
     }
 }
