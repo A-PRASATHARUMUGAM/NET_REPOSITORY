@@ -66,12 +66,22 @@ namespace ConsoleApp1
             int name3 = Convert.ToInt32(str);
             Console.WriteLine(name2.GetType());
 
+            
+            // TryParse - Conversion 
+            string fname = Console.ReadLine();
+            int val1;
+            bool result = int.TryParse(fname, out val1);
+            Console.WriteLine(result);
+
+
             //static method calling
             String_Methods.data();
 
             //instance method calling
             String_Methods abc = new String_Methods();
             abc.helper();
+
+
 
         }
     }
