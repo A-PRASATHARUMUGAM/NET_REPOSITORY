@@ -1,4 +1,8 @@
 
+
+using System.Net.Http.Headers;
+using System.Runtime.Versioning;
+
 namespace Practice_.NET_Program
 {
      class Control_Flow_Statement
@@ -64,9 +68,43 @@ namespace Practice_.NET_Program
                 }
             }else
             {
-                Console.WriteLine(false) ;
+                Console.WriteLine(false);
             }
+
+
+            // Switch Statement 
+            string fname = "vk";
+
+                switch (fname.ToLower()) {
+
+                case "prasath":
+
+                    Console.WriteLine(fname);
+
+                    break;
+                case "vk":
+
+                    Console.WriteLine(fname);
+
+                    break;
+                case "sb":
+
+                    Console.WriteLine(fname);
+
+                    break;
+
+                default:
+                    Console.WriteLine("No one found ");
+                    break;
+
             
+            }
+
+
+
+
+
+
 
         }
     }
