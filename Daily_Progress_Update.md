@@ -23,17 +23,8 @@ Day 3 : 13 AUG 25
 •	Collections (List)
 •   Bits and Brains presentation
 
-Day 3 : 13 AUG 25
-•	Array, ArrayList
-•   Control Statements (Loops, Conditionals)
-•	Collections (List)
-•   Bits and Brains presentation
-
-<<<<<<< HEAD
-
-
 Day 4 : 14 AUG 25
-•
+•	
 •
 
 
