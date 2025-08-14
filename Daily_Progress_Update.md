@@ -25,11 +25,4 @@ Day 3 : 13 AUG 25
 
 Day 4 : 14 AUG 25
 •	OOP Concepts (Classes, Objects, Encapsulation, Inheritance, Polymorphism, Abstraction)
-•	Exception Handling 
 •	Collections (List, Dictionary, Stack, Queue) 
-
-
-
-
-
-
