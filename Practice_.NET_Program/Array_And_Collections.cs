@@ -377,16 +377,16 @@ namespace Practice_.NET_Program
 
     
             //Non Generic Collection  - not specifice 
-            ArrayList  varname= new ArrayList();      -- Non specifice to store   values   
+            //ArrayList  varname= new ArrayList();      -- Non specifice to store   values   
 
-            Hashtable  varname= new HashTable();      --  Non specifice store key value pair 
+            //Hashtable  varname= new HashTable();      --  Non specifice store key value pair 
 
 
-            //Generic Collection     - specifice 
+            ////Generic Collection     - specifice 
 
-            List<int>  varname2= new List<int>();          --   specifice to store  values
+            //List<int>  varname2= new List<int>();          --   specifice to store  values
 
-            Dictionary<key,value> varname = new Dictionary<int,string>();  --store specifice key value pair 
+            //Dictionary<key,value> varname = new Dictionary<int,string>();  --store specifice key value pair 
 
 
 

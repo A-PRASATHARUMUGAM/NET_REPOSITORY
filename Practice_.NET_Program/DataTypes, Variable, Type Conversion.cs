@@ -74,12 +74,12 @@ namespace ConsoleApp1
             Console.WriteLine(result);
 
 
-            //static method calling
-            String_Methods.data();
+            ////static method calling
+            //String_Methods.data();
 
-            //instance method calling
-            String_Methods abc = new String_Methods();
-            abc.helper();
+            ////instance method calling
+            //String_Methods abc = new String_Methods();
+            //abc.helper();
 
 
 
