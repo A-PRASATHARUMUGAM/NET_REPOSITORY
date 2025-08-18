@@ -34,6 +34,12 @@ Day 5 : 18 AUG 25
 • Getters and Setters
 • Constructor (Empty, Multiple, Parameterized)
 • Exercise: Get All Values Using List
+• inheritance (single)
+• 
+• 
+• 
+
+
 
 
 
