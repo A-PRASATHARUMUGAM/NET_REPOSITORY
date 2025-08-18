@@ -28,4 +28,6 @@ Day 4 : 14 AUG 25
 •	Collections (List, Dictionary, Stack, Queue) 
 
 
-Day 5 : 18 AUG 25 
+Day 5 : 18 AUG 25  
+
+encapsulation get and set 
