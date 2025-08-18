@@ -30,4 +30,11 @@ Day 4 : 14 AUG 25
 
 Day 5 : 18 AUG 25  
 
-encapsulation get and set 
+• Class and Object
+• Getters and Setters
+• Constructor (Empty, Multiple, Parameterized)
+• Exercise: Get All Values Using List
+
+
+
+
