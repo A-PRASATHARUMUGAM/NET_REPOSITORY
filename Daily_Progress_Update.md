@@ -40,7 +40,8 @@ Day 6: 19 AUG 25
 • Inheritance (Multiple,Multilevel,Hierach)
 • Interface 
 • Polymorphism
-• 
+• Testing the BNI Connect 
+
 • 
 • 
 • 
