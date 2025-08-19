@@ -36,7 +36,9 @@ Day 5 : 18 AUG 25
 • Exercise: Get All Values Using List
 • inheritance (single)
 • 
-• 
+
+Day 6: 19 AUG 25
+• Interface 
 • 
 
 
