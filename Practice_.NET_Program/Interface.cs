@@ -53,6 +53,7 @@ using System.Threading.Tasks;
 
 namespace Practice_Program
 {
+     //Multiple Inheritance(Only Achieved By Interface)
      class Employee : child , EmployeeSalary  
     {
         public int EmployeeId { get; set; }
