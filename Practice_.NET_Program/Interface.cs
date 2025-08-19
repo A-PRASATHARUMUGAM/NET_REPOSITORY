@@ -110,7 +110,6 @@ namespace Practice_Program
 {
 
     //Interface - Function call only 
-   
       interface  EmployeeSalary
     {
 
