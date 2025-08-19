@@ -25,6 +25,11 @@ namespace Practice_Program
 
             Boss bossclass= new Boss(2,"kandhan","Genx",40000);
 
+            //Hierarchical Inheritance
+            ExternalEmployee external =new ExternalEmployee(3, "ExternalEmp", 30000);
+
+            external.BossDetails();
+
            
 
             //interface - Function call only
@@ -182,5 +187,42 @@ namespace Practice_Program
       interface  EmployeeSalary
     {
         public void Salarydetails();
+    }
+}
+
+
+                            //Hierarchical inheritance 
+
+                            // ExternalEmployee.cs
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Practice_Program
+{
+    public class ExternalEmployee : Boss
+    {
+
+
+
+        public int ExternalEmployeeId { get; set; }
+        public string ExternalEmployeeName { get; set; }
+
+        public int ExternalSalary { get; set; }
+
+        public ExternalEmployee(int employeeId, string employeeName, int salary) : base(employeeId, employeeName, "ExternalCompany", salary)
+        {
+            this.ExternalEmployeeId = employeeId;
+            this.ExternalEmployeeName = employeeName;
+            this.ExternalSalary = salary;
+        }
+
+        public void ExternalEmployeeDetails()
+        {
+            Console.WriteLine($"External EmployeeId: {ExternalEmployeeId} External EmployeeName: {ExternalEmployeeName}");
+        }
     }
 }
