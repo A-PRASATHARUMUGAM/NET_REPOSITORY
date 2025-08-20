@@ -46,7 +46,7 @@ namespace Practice_Program
 
 
             //Method Overriding 
-            simibus checkbus3 = new simibus(20);
+            bus checkbus3 = new simibus(20);
 
             checkbus3.wheelsinbus();
 
@@ -185,4 +185,122 @@ namespace Practice_Program
     }
 }
 
+//Method Overriding 
+// new keywoard implement other file 
 
+
+
+                                         // Program.cs           
+
+using Practice_Program.Domain;
+namespace Practice_Program
+{
+
+
+    public class Program   {
+
+
+
+        public Program() 
+
+        { 
+            Console.WriteLine("I am a Constructor");
+
+
+        }
+
+        public static void Main(String[] args)
+        {
+
+
+
+
+
+            simibus simi = new simibus(5);
+
+            simi.wheelsinbus();
+
+
+        }
+
+
+    }
+
+
+}
+
+
+
+                                            //simibus.cs  -Derived Class
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net.WebSockets;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Practice_Program
+{
+    public class simibus : bus  
+    {
+
+        public simibus(int wheels ):base(wheels)
+        {
+          
+        }
+
+                    //Implement to new keyword it is don't override show is in first becasue is it " new "
+                    //Method Overriding 
+        public new void wheelsinbus()
+        {
+            Console.WriteLine($"This derived class : {Wheels}");
+        }
+
+
+        public   void buscapacity() 
+        {
+            Console.WriteLine("this is derived ");
+            Console.WriteLine("40 members only");
+        }
+    }
+
+}
+
+
+
+                                            //bus.cs  -     Base Class 
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Practice_Program
+{
+    public class bus 
+    {
+        public int Wheels { get; set; }
+
+
+        public bus(int wheelsbus)
+        {
+            this.Wheels = wheelsbus;
+
+
+        }
+        public new void wheelsinbus()
+        {
+            Console.WriteLine($"This base class : {Wheels}");
+        }
+
+        public  void buscapacity()
+        {
+            Console.WriteLine("This is base");
+            Console.WriteLine("20 members only");
+        }
+    }
+
+}
