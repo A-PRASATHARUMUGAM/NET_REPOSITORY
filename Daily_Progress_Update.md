@@ -42,7 +42,8 @@ Day 6: 19 AUG 25
 • Polymorphism
 • Testing the BNI Connect 
 
-• 
+Day 7: 20 AUG 25
+• polymorphism - Method Overloading / Method Overriding
 • 
 • 
 • 
