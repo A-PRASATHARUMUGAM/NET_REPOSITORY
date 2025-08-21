@@ -49,7 +49,7 @@ Day 7: 20 AUG 25
 • Exception Handling  
 
 Day 8: 21 AUG 25
-• 
+•  Testing SVM Project 
 • 
 • 
 • 
