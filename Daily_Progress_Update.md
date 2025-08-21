@@ -50,9 +50,17 @@ Day 7: 20 AUG 25
 
 Day 8: 21 AUG 25
 •  Testing SVM Project 
-• 
-• 
-• 
+•  Solved problem 1 and Problem 2 :
+    - Create a simple calculator program that:
+    - Uses a for loop to print numbers 1 to 10
+    - Uses a while loop to find the sum of numbers from 1 to 50
+    - Uses if-else statements to categorize a student's grade based on marks
+    - Uses switch statement to display day of week based on number input (1-7)
+
+    -
+    -
+    -
+    -
 
  
 • 
