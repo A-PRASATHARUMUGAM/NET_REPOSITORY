@@ -57,9 +57,14 @@ Day 8: 21 AUG 25
     - Uses if-else statements to categorize a student's grade based on marks
     - Uses switch statement to display day of week based on number input (1-7)
 
-Day 10: 22 AUG 25
-    -
-    -
+Day 9: 22 AUG 25
+    • Solved Problem 3 and Problem 4:
+         -A method to check if a number is prime
+         -A method to calculate factorial of a number
+         -A method to reverse a string
+         -A method with parameters and return value
+         -A method that uses method overloading 
+
     -
 
  
