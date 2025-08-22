@@ -57,7 +57,7 @@ Day 8: 21 AUG 25
     - Uses if-else statements to categorize a student's grade based on marks
     - Uses switch statement to display day of week based on number input (1-7)
 
-    -
+Day 10: 22 AUG 25
     -
     -
     -
