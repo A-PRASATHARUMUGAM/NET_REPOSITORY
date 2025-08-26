@@ -67,9 +67,27 @@ Day 9: 22 AUG 25
          -Create a program that demonstrates exception handling
 
     -
-
+Day 10 : 23 AUG 25
+ 
+    •  Solved Problem 4
+        - Create a class hierarchy for a Vehicle system:
+        - Base class: Vehicle (with encapsulation)
+        - Derived classes: Car and Motorcycle (inheritance)
+        - Implement polymorphism with method overriding
+        - Use abstraction with abstract methods
+Revision : Inheritance, Polymorphism, Encapsulation, Abstraction
+Learn about : LINQ (Language Integrated Query)
  
 • 
+
+Day 11 : 25 AUG 25 
+
+--      Leave --- 
+
+
+
+Day 12 : 26 AUG 25
+
 • 
 • 
 • 
