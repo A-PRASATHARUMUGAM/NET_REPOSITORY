@@ -88,14 +88,9 @@ Day 11 : 25 AUG 25
 
 Day 12 : 26 AUG 25
 
-
-- Learning about the extension 
-
-• 
-• 
-• 
-• 
-• 
+•  LinQ Learning / Debug Processing
+•  Learning about the some Extension
+•  LinQ Operators Filter/ OrderBy/ GroupBy/ Joining
 
 
 
