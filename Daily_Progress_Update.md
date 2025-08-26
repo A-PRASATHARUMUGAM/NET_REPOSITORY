@@ -88,6 +88,9 @@ Day 11 : 25 AUG 25
 
 Day 12 : 26 AUG 25
 
+
+- Learning about the extension 
+
 • 
 • 
 • 
