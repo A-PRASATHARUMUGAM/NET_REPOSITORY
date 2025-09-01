@@ -112,9 +112,7 @@ Day 15 : 30 AUG 25
     • Delegates
 
 
-
-
-
+Day 16: 1 SEP 25
 
 
 
