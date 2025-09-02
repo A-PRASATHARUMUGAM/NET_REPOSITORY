@@ -114,10 +114,15 @@ Day 15 : 30 AUG 25
 
 Day 16: 1 SEP 25
 
-- Delegats , Events, Lambda Expression 
-- Enum , Modles
-- Revision Everything
-- Practice Problem 
+• Delegats , Events, Lambda Expression 
+• Enum , Modles, Dependency Injection 
+• Revision Everything
+• Practice Problem  
+
+
+
+Day 17 : 2 SEP 25
+
 
 
 
