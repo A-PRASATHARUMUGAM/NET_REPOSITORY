@@ -337,7 +337,7 @@ namespace Practice_.NET_Program
             Console.WriteLine("         ----- Queue -------");
             //First In First Out[FIFO]
             //Queue<int> queue = new Queue<int>();
-            //Enqueue, Dequeue and Pop.
+            //Enqueue, Dequeue and Peek.
 
             //SYNTAX - Queue<datatype> variablename = new Queue<datatype>();
 
