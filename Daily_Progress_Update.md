@@ -78,7 +78,6 @@ Day 10 : 23 AUG 25
 Revision : Inheritance, Polymorphism, Encapsulation, Abstraction
 Learn about : LINQ (Language Integrated Query)
  
-• 
 
 Day 11 : 25 AUG 25 
 
@@ -123,10 +122,16 @@ Day 16: 1 SEP 25
 
 Day 17 : 2 SEP 25
 
-  - Solving Problem To-List 
+  - Solving Problem To-List     
 
 
 Day 18: 3 SEP 25 
+
+   - Ready Bits and Brain PPT
+   - Align all Problem Statement
+   - Dependency Injection 
+
+
 
 
 
