@@ -129,7 +129,14 @@ Day 18: 3 SEP 25
 
    - Ready Bits and Brain PPT
    - Align all Problem Statement
-   - Dependency Injection 
+
+Day 19: 4 SEP 25
+
+    -  API CRUD Operation
+    -  DataBase Connectivity
+    -  Entity FrameWork Core
+    -  DTO - Data Transfer Object 
+
 
 
 
