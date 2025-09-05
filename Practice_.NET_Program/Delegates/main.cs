@@ -1,6 +1,6 @@
 //Delegate
 //What is Delegate
-//.Net memory Allocation
+//Net memory Allocation
 //How to Delegate Work
 
 namespace Practice_Program
