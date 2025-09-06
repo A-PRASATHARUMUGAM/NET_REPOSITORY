@@ -137,8 +137,17 @@ Day 19: 4 SEP 25
     -  Entity FrameWork Core
     -  DTO - Data Transfer Object 
 
+Day 20: 5 SEP 25
 
+     - Finished To-List Project 
+     - Understanding Repostiory Patter 
+     
+Day 21: 6 SEP 25
 
+    - Revision DataBase Connectivity own
+    - Revison PPT to Explain
+    - 
+    
 
 
 
