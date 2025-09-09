@@ -146,7 +146,14 @@ Day 21: 6 SEP 25
 
     - Revision DataBase Connectivity own
     - Revison PPT to Explain
-    - 
+
+Day 22: 7 SEP 25
+
+---- SUNDAY LEAVE ----
+
+Day 23: 8 SEP 25
+
+DAY 24: 9 SEP 25 
     
 
 
