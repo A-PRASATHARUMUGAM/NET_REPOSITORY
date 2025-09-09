@@ -155,6 +155,12 @@ Day 23: 8 SEP 25
 
 DAY 24: 9 SEP 25 
     
+   - API Intergration data - api vie Database
+   - Pratice Problems 
+   - Revision and Implement 
+   
+
+
 
 
 
