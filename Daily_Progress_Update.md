@@ -152,7 +152,7 @@ Day 22: 7 SEP 25
 ---- SUNDAY LEAVE ----
 
 Day 23: 8 SEP 25
-
+    - Forget 
 DAY 24: 9 SEP 25 
     
    - API Intergration data - api vie Database
@@ -161,8 +161,48 @@ DAY 24: 9 SEP 25
 
 DAY 25: 10 SEP 25
 
-    - Start Learning PHP
-   
+    - Start Learning PHP 
+
+Day 26: 11 SEP 25
+    - Finished the php 
+    - Crud Operation in PHP
+
+Day 27: 12 SEP 25
+    - Start Learning Laravel 
+    - Crud Operation in Larvel 
+    - Segerate the Dashboard implement 
+
+Day 28: 13 SEP 25
+
+    - Finished the Enquiry_candidate_Project UI Fully
+    - Designing to work flow on that project 
+
+
+Day 29: 14 SEP 25  - Sunday 
+
+    - Working on the Enquiry_candidate_Project 
+    - Working on the UI - Correction Too
+
+Day 30: 15 SEP 25
+
+    - Changed the UI design for work flow 
+    - Finished on the Enquiry_candidates_project 
+
+
+Day 31: 16 SEP 25
+
+    - Segerate the Laravel Topic to Learn  
+    - Add Route to Customer/enquiry to implement 
+    - 
+
+
+
+
+
+
+
+
+
 
 
 
