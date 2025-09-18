@@ -193,8 +193,18 @@ Day 31: 16 SEP 25
 
     - Segerate the Laravel Topic to Learn  
     - Add Route to Customer/enquiry to implement 
-    - 
 
+
+
+Day 32: 17 SEP 25
+
+    - Sick Leave 
+
+
+Day 33: 18 SEP 25
+
+    - 
+    
 
 
 
