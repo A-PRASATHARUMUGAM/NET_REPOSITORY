@@ -202,8 +202,30 @@ Day 32: 17 SEP 25
 
 
 Day 33: 18 SEP 25
+    - Revison all concept in Laravel 
 
-    - 
+Day 34: 19 SEP 25
+    - Implement the Filter in CRM PJ Page 
+    - Implement the Pagination CRM PJ Page 
+    - Implement Data Export to Excel Sheet
+    - Learn about API Sanctum
+
+Day 35: 20 SEP 25 
+
+    - Sick Leave 
+
+Day 36: 21 SEP 25  -SUNDAY LEAVE 
+
+     -SUNDAY LEAVE 
+
+Day 37: 22 SEP 25
+
+    - Aling Everthing like Prasath
+    - Learn about All Token
+    - Work on JWT Token to implement form 
+    - REST API to work to CRUD Operation 
+
+
     
 
 
