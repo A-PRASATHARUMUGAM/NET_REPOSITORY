@@ -222,8 +222,21 @@ Day 37: 22 SEP 25
 
     - Aling Everthing like Prasath
     - Learn about All Token
-    - Work on JWT Token to implement form 
-    - REST API to work to CRUD Operation 
+    - Learn about REST API
+    - Understood the work flow to Laravel 
+
+Day 38: 23 SEP 25
+    - Manually work on Laravel
+        - Setup
+        - Form 
+        - Api to Crud operation
+    - Authenication
+        - Breeze   - how its work
+        - Jestream
+        - Sanctum
+        - Passport
+        - JWT 
+    - Learn  on JWT Token to implement form 
 
 
     
