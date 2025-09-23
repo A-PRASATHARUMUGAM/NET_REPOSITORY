@@ -223,7 +223,7 @@ Day 37: 22 SEP 25
     - Aling Everthing like Prasath
     - Learn about All Token
     - Learn about REST API
-    - Understood the work flow to Laravel 
+    - Understood the work store data flow to Laravel 
 
 Day 38: 23 SEP 25
     - Manually work on Laravel
@@ -237,12 +237,6 @@ Day 38: 23 SEP 25
         - Passport
         - JWT 
     - Learn  on JWT Token to implement form 
-
-
-    
-
-
-
 
 
 
