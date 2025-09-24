@@ -239,6 +239,12 @@ Day 38: 23 SEP 25
     - Learn  on JWT Token to implement form 
 
 
+Day 39: 24 SEP 25
+
+    - Revision the API 
+    - Segerate the Laravel 
+    - Start Learn React then Segerate the React topic 
+
 
 
 
