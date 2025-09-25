@@ -247,7 +247,11 @@ Day 39: 24 SEP 25
     - Seperate Everything in Learn concept
 
 
+Day 40: 25 SEP 25
 
+    - Laravel 12 Setup process
+    - Connect Wamp Server
+    - Livewire to connect segerate html/css/js
 
 
 
