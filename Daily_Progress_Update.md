@@ -254,7 +254,22 @@ Day 40: 25 SEP 25
     - Livewire to connect segerate html/css/js
 
 
+Day 41: 26 SEP 25
+    - Learn the Laravel 
+    - Ready to Documentation for Laravel
+    - Learn about the show image data to frontend 
+    - Learn about proper database connectivity 
+    - Proper form Requirement fields and Validation 
+    - Proper HTML/CSS/Js links Implement using @stack(),@push
+    
+Day 42: 27 SEP 25
 
+    - Structure Desing half
+    - Meeting for the rules and regulation 
+    - Learn the Laravel Topic
+    - Learn about Frontend Requirement and functionality 
+
+Day 43: 28 SEP 25  --SUNDAY 
 
 
 
