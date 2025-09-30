@@ -272,6 +272,37 @@ Day 42: 27 SEP 25
 Day 43: 28 SEP 25  --SUNDAY 
 
 
+Day 44: 29 SEP 25
+
+     - Learn about stripe then / Setup the strip 
+     - Evening Meeting / Morning Meet  2-30h
+     - Payment Structure setup 
+
+
+Day 45: 30 SEP 25
+
+First off
+1. Meeting  -  30 m
+2. Learn abouts Payment stripe - 30 m
+3. Bill Generation process - 1h + 30m 
+4. Ask murail /Own bill  Own  +20m
+
+Second off
+
+5. Seperate topic alignment and add important  - 30m
+6. Bending working Implement - 10m
+7. Structure Structure  -  3h
+
+Target
+
+1. Finish the workflow full include data base connectivity Structure 
+2. Ready the Structure Design Payment Page Cash on Delivary / orders page 
+3. Ready Bill Generation Page 
+4. Won bill format like professional 
+5. Ready to Documenation for Bending Laravel concepts 
+
+
+
 
 
 
