@@ -313,6 +313,24 @@ Day 47: 2 OCT 25
 ---   OCT TO DEC 2025 Ending  --- 
 
 
+Day 48: 3 OCT 25 
+
+- Finished the order page design 
+- Finished the Billing page design 
+
+Day 49: 4 OCT 25 
+
+- Start the Backend 
+- Implement the Blade file 
+- Once lite Revision the laravel 
+
+Target 
+- Finished the Proper Authentication page
+- Proper DataBase Connectivity Relationship
+- Add button to uploade the image to show the front end 
+
+
+
 
 
 
