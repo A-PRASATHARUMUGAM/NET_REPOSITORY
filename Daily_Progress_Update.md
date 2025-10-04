@@ -325,7 +325,7 @@ Day 49: 4 OCT 25
 - Once lite Revision the laravel 
 
 Target 
-- Finished the Proper Authentication page
+- Finished the Proper Authentication page Using sanctum
 - Proper DataBase Connectivity Relationship
 - Add button to uploade the image to show the front end 
 
