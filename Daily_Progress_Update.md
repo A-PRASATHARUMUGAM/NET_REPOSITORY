@@ -339,5 +339,14 @@ Day 50: 5 OCT 25
 Day 51: 6 OCT 25
 
     -Authentication Full process 
-    
+    -Implement structure DSA
+
+Day 52: 7 OCT 25 
+
+    -Image uploade full process
+    -Revision JS include do concept 
+    -Route full concept 
+    -Implement the blade file 
+
+
 
