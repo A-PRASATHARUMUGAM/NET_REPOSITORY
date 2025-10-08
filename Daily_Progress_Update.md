@@ -342,12 +342,10 @@ Day 51: 6 OCT 25
     -Implement structure DSA
 
 Day 52: 7 OCT 25 
+    -Manual Authentication 
+    -The Process of the API/FORM 
 
-    -Image uploade full process
-    -Revision JS include do concept 
-    -Route full concept 
-    -Implement the blade file 
-    -Role Base Authentication 
-    
+Day 51: 8 OCT 25 
+ 
 
 
