@@ -352,10 +352,11 @@ Day 53: 8 OCT 25
     - Learn about manual data store in fillable 
 
 Day 54: 9 OCT 25
-
     - Revision CRUD Operation 
     - Implement it manual CRUD
     - CRUD single page , multiple page 
+
+Day 55: 10 OCT 25
 
  
 
