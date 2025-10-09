@@ -345,7 +345,18 @@ Day 52: 7 OCT 25
     -Manual Authentication 
     -The Process of the API/FORM 
 
-Day 51: 8 OCT 25 
+Day 53: 8 OCT 25 
+
+    - Revision the Authentication 
+    - and work on it 
+    - Learn about manual data store in fillable 
+
+Day 54: 9 OCT 25
+
+    - Revision CRUD Operation 
+    - Implement it manual CRUD
+    - CRUD single page , multiple page 
+
  
 
 
