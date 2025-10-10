@@ -358,6 +358,8 @@ Day 54: 9 OCT 25
 
 Day 55: 10 OCT 25
 
+    - Assessment School Management System   
+    - Learn bending concept 
  
 
 
