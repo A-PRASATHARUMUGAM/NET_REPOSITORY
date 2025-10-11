@@ -361,5 +361,6 @@ Day 55: 10 OCT 25
     - Assessment School Management System   
     - Learn bending concept 
  
-
-
+Day 56: 11 OCT 25
+    - Learn about role base authentication 
+    - Implement the structure on Bending Laravel concepts
