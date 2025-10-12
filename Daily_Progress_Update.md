@@ -364,3 +364,6 @@ Day 55: 10 OCT 25
 Day 56: 11 OCT 25
     - Learn about role base authentication 
     - Implement the structure on Bending Laravel concepts
+
+Day 57: 12 OCT 25 
+     - Sunday 
