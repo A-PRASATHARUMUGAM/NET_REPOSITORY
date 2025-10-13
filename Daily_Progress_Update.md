@@ -367,3 +367,11 @@ Day 56: 11 OCT 25
 
 Day 57: 12 OCT 25 
      - Sunday 
+
+Day 58: 13 OCT 25
+
+    - Implement the sanctum Authentication 
+    - Implement the Image uplode 
+    - both concept is still no working 
+    
+
