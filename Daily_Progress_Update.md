@@ -374,4 +374,8 @@ Day 58: 13 OCT 25
     - Implement the Image uplode 
     - both concept is still no working 
     
+Day 59: 14 OCT 25 
 
+    - Relation ship in laravel
+    - Role base authentication 
+    - Seeding Data 
