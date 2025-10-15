@@ -379,3 +379,5 @@ Day 59: 14 OCT 25
     - Relation ship in laravel
     - Role base authentication 
     - Seeding Data 
+Day 60: 15 OCT 25
+    - Sick leave 🤧 
