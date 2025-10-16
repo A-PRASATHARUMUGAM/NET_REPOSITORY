@@ -381,3 +381,11 @@ Day 59: 14 OCT 25
     - Seeding Data 
 Day 60: 15 OCT 25
     - Sick leave 🤧 
+
+
+Day 61: 16 OCT 25
+
+    - Implement the Blade file to Landing Page Project 
+    - Implement the Image store to DB the show the frontend 
+
+    
