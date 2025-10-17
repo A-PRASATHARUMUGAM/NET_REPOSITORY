@@ -394,3 +394,5 @@ Day 62: 17 OCT 25
     - Revision JQuery 
     - Revision Js Product Uploade 
     - Structure Implement 
+    - check the add cart revision concept 
+    
