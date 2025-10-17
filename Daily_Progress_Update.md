@@ -388,4 +388,9 @@ Day 61: 16 OCT 25
     - Implement the Blade file to Landing Page Project 
     - Implement the Image store to DB the show the frontend 
 
+Day 62: 17 OCT 25
     
+    - Revision the JS
+    - Revision JQuery 
+    - Revision Js Product Uploade 
+    - Structure Implement 
