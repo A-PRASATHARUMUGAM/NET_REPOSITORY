@@ -394,5 +394,11 @@ Day 62: 17 OCT 25
     - Revision JQuery 
     - Revision Js Product Uploade 
     - Structure Implement 
-    - check the add cart revision concept 
+    - check the add cart revision concept
+
+Day 63: 18 OCT 25 
+     - Saturday office Function
+
+Day 64: 19 OCT 25
+     - Festivel Diwali Dress 
     
