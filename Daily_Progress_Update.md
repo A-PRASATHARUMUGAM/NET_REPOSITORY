@@ -401,4 +401,7 @@ Day 63: 18 OCT 25
 
 Day 64: 19 OCT 25
      - Festivel Diwali Dress 
+
+Day 65: 20 OCT 25
+     -  Happy Diwali 2025 
     
