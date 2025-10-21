@@ -404,4 +404,6 @@ Day 64: 19 OCT 25
 
 Day 65: 20 OCT 25
      -  Happy Diwali 2025 
+Day 66: 21 OCT 25
+     - Sick Leave 
     
