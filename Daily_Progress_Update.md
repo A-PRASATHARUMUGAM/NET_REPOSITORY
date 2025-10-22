@@ -410,4 +410,5 @@ Day 66: 21 OCT 25
 Day 68: 22 OCT 25 
 
     - Stripe Payment gateway
+    - Role Based Authenticaiton 
     - Laravel Project Implement fully 
