@@ -406,4 +406,8 @@ Day 65: 20 OCT 25
      -  Happy Diwali 2025 
 Day 66: 21 OCT 25
      - Sick Leave 
-    
+
+Day 68: 22 OCT 25 
+
+    - Stripe Payment gateway
+    - Laravel Project Implement fully 
