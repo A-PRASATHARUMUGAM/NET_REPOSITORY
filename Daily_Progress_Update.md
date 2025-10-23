@@ -412,3 +412,9 @@ Day 68: 22 OCT 25
     - Stripe Payment gateway
     - Role Based Authenticaiton 
     - Laravel Project Implement fully 
+
+Day 69: 23 OCT 25 
+
+    - Implement Role Base Authentication
+    - Implement the Stripe Payment Gateway Total Price DB
+    - Cash or Delivery / Stripe Payment Process 
