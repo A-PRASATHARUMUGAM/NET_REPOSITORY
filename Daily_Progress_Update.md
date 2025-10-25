@@ -423,4 +423,8 @@ Day 70: 24 OCT 25
       - Reverse Ajax
       - work on order page in Project 
 
+Day 71: 25 OCT 25
+      - Assessment Problem 
+      - complete orders page in Project 
+
 
