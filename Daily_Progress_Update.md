@@ -418,3 +418,9 @@ Day 69: 23 OCT 25
     - Implement Role Base Authentication
     - Implement the Stripe Payment Gateway Total Price DB
     - Cash or Delivery / Stripe Payment Process 
+
+Day 70: 24 OCT 25
+      - Reverse Ajax
+      - work on order page in Project 
+
+
