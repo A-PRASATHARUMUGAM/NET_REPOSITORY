@@ -428,7 +428,10 @@ Day 71: 25 OCT 25
       - complete orders page in Project 
 
 Day 72:26 OCT 25 
-    
       -SUNDAY 
 
+Day 73: 27 OCT 25 
+
+      - Store the product details and address to the database
+      - Learn about Relation Ship then implement it  
 
