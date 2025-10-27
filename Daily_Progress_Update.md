@@ -433,5 +433,6 @@ Day 72:26 OCT 25
 Day 73: 27 OCT 25 
 
       - Store the product details and address to the database
+      - 2 Search Bar Filters Implement *Frontend
       - Learn about Relation Ship then implement it  
 
