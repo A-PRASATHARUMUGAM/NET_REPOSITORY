@@ -436,3 +436,18 @@ Day 73: 27 OCT 25
       - 2 Search Bar Filters Implement *Frontend
       - Learn about Relation Ship then implement it  
 
+Day 74: 28 OCT 25
+
+      - Learn about OnetoOne and Implement to  Landing Page
+      - Search the how to Fix it. 
+
+Day 75: 29 OCT 25 
+ 
+    - Fix the Multiple data store concept 
+    - Learn about One to many Implement it Landing Page 
+    - Show the orders to frontend Page 
+
+
+
+
+     
