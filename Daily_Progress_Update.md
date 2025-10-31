@@ -447,6 +447,15 @@ Day 75: 29 OCT 25
     - Learn about One to many Implement it Landing Page 
     - Show the orders to frontend Page 
 
+Day 76: 30 OCT 25
+
+    - Work on the Landing Page project 
+
+Day 77: 31 OCT 25 
+    -Enquiry Management Project using API
+    -Learn About Annotation 
+
+    
 
 
 
