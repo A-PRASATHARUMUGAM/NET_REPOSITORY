@@ -455,6 +455,10 @@ Day 77: 31 OCT 25
     -Enquiry Management Project using API
     -Learn About Annotation 
 
+Day 78: 1 OCT 25 
+    - Learn About Swagger Annotation 
+    - Create the Swagger Api Documentation 
+    - Create the Excel Export to Swagger UI 
     
 
 
