@@ -459,6 +459,13 @@ Day 78: 1 OCT 25
     - Learn About Swagger Annotation 
     - Create the Swagger Api Documentation 
     - Create the Excel Export to Swagger UI 
+
+Day 79: 2 OCT 25 
+    - SUNDAY 
+
+Day 80: 3 OCT 25    
+    - React CRUD Operation 
+
     
 
 
