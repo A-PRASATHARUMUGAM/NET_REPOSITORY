@@ -466,6 +466,12 @@ Day 79: 2 OCT 25
 Day 80: 3 OCT 25    
     - React CRUD Operation 
 
+
+Day 85: 7 OCT 25
+    - Assessment Mgee Elevators
+    - Complete the Frontend Design 
+
+
     
 
 
