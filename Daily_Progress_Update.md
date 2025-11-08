@@ -470,7 +470,8 @@ Day 80: 3 OCT 25
 Day 85: 7 OCT 25
     - Assessment Mgee Elevators
     - Complete the Frontend Design 
-
+Day 85: 8 OCT 25
+    - Going to vk house
 
     
 
