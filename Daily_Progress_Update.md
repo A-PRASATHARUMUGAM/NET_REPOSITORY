@@ -472,6 +472,8 @@ Day 85: 7 OCT 25
     - Complete the Frontend Design 
 Day 85: 8 OCT 25
     - Going to vk house
+Day 86 9 OCT 25 
+    - In Madhuri Getting 
 
     
 
