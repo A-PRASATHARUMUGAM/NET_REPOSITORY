@@ -1,4 +1,4 @@
-2u
+12u
 Day 1: 11 AUG 25
 
 Phase 1: Fundamentals of .NET
@@ -474,6 +474,9 @@ Day 85: 8 OCT 25
     - Going to vk house
 Day 86 9 OCT 25 
     - In Madhuri Getting Bike
+
+Day  Nov 25
+SUNDAY New Start Now
 
     
 
