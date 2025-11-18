@@ -1,4 +1,4 @@
-12u
+812u
 Day 1: 11 AUG 25
 
 Phase 1: Fundamentals of .NET
@@ -478,8 +478,8 @@ Day 86 9 OCT 25
 Day  Nov 25
 SUNDAY New Start Now
 
-    
 
-
+Day Nov 18 
+Work the Election Project Requirement Task 
 
      
