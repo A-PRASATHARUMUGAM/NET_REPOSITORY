@@ -482,4 +482,15 @@ SUNDAY New Start Now
 Day Nov 18 
 Work the Election Project Requirement Task 
 
+
+Day Nov 19
+
+Work the Election Requirement voter details to 
+
+
+
+
+
+
      
+
