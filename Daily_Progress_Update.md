@@ -487,6 +487,11 @@ Day Nov 19
 
 Work the Election Requirement voter details to 
 
+Day Nove 20 
+
+update new column in Election Project 
+Create new Address details
+
 
 
 
