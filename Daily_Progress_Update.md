@@ -503,5 +503,9 @@ Perfect Relatinship Implement
 
 
 
-     
+Today 22-11-25
+
+Implement the crud and  all validation 
+Implement the soft delete
+Implement the relationship to table  
 
