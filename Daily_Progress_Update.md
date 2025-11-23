@@ -507,5 +507,9 @@ Today 22-11-25
 
 Implement the crud and  all validation 
 Implement the soft delete
-Implement the relationship to table  
+Implement the relationship to table
+
+
+Today 23_11_25  
+SUNDAY 
 
