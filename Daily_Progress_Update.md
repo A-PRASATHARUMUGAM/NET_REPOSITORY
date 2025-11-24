@@ -513,3 +513,13 @@ Implement the relationship to table
 Today 23_11_25  
 SUNDAY 
 
+Day 24 - 11 -25 
+
+Again Implement the all data to relationship	
+
+Implement the Filter to all Voter Details	
+
+Implement the Coder standard and some table column changes, some error handling		
+Learn about the REPR pattern structure and soft delete artisan cmd
+
+
