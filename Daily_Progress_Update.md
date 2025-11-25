@@ -523,3 +523,17 @@ Implement the Coder standard and some table column changes, some error handling
 Learn about the REPR pattern structure and soft delete artisan cmd
 
 
+Day 25 - 11 - 25 
+1. Go through existing project structure 
+
+2. Implement the manual soft deletes 
+
+3. Create the setup for the react for vite 
+
+4. create a setup for the Tailwind 
+
+	- Revision the setup 
+	- Implement to the manual css and then implement to react 
+
+5. create git repository to integrate the project both frontend and backend 
+
