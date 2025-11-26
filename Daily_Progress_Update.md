@@ -1,4 +1,4 @@
-812u
+8812u
 Day 1: 11 AUG 25
 
 Phase 1: Fundamentals of .NET
@@ -537,3 +537,7 @@ Day 25 - 11 - 25
 
 5. create git repository to integrate the project both frontend and backend 
 
+Day 26 - 11 - 25 
+
+1. Create React project structure. 
+2. Create Signin page Using tailwind. 
